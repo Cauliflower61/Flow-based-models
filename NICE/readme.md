@@ -9,5 +9,7 @@ tqdm 4.65.0
 python 3.7.0  
 
 # result
+The results with 8 epochs of training are as follows.  
 
-<img width="865" alt="屏幕截图 2023-07-15 150011" src="https://github.com/sakura-nanoha/Flow-based-models/assets/116003861/7aeb05ec-a3c5-4772-923f-906487ef6d43">
+![8epoch_result](https://github.com/sakura-nanoha/Flow-based-models/assets/116003861/c961babe-ebfd-4996-a110-2b44ae577c3e)
+
