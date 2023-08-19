@@ -11,4 +11,5 @@ python 3.7.0
 
 # result
 The results with 20 epochs of training are as follows.  
-![Uploading generate.png…]()
+
+![generate](https://github.com/sakura-nanoha/Flow-based-models/assets/116003861/c09bb7f8-69fa-4e0c-bf0b-0622a01ecd95)
